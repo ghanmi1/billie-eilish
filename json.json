@@ -1,0 +1,71 @@
+{
+  "GuideData": {
+
+
+    "AdsController": 
+      {
+        "ironsourcekey":"",
+	"admobkey":"",
+	  "admobinter":"",
+	      "admobnative":""
+	     
+      }
+    ,
+
+    "items": [
+      {
+        "title": "",
+        "image": "",
+		
+        "color": "#FF000000",
+        "text_size": "20",
+        "isLink": false,
+        "link_title": "vlad and niki 12 Locks",
+        "setLink": "",
+        "image_link": "",
+        "text":"",
+        "isNative": false
+		
+      },
+      {
+        "title": "",
+        "image": "",
+        "color": "#FF000000",
+        "text_size": "20",
+        "isLink": false,
+	"link_title": "",
+	"setLink": "",
+        "image_link": "",
+        "text": "",
+           "isNative": false
+      },
+      {
+        "title": "",
+        "image": "",
+	"color": "#FF000000",
+        "text_size": "20",
+        "isLink": false,
+	"link_title": "",
+	"setLink": "",
+        "image_link": "",
+        "text": "",
+        "isNative": false
+      },
+      {
+        "title": "",
+        "image": "",
+	"color": "#FF000000",
+        "text_size": "20",
+        "isLink": false,
+	"link_title": "",
+	"setLink": "",
+        "image_link": "",
+        "text": "",
+           "isNative": false
+        }
+     
+      
+    ]
+
+  }
+}
