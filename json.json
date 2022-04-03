@@ -14,8 +14,8 @@
 
     "items": [
       {
-        "title": "",
-        "image": "",
+        "title": "Billie Eilish Lock Screen",
+        "image": "https://ghanmi1.github.io/billie-eilish/billieLockscreen.PNG",
 		
         "color": "#FF000000",
         "text_size": "20",
@@ -28,8 +28,8 @@
 		
       },
       {
-        "title": "",
-        "image": "",
+        "title": "Billie Eilish Piano Tiles",
+        "image": "https://ghanmi1.github.io/billie-eilish/billiePiano.PNG",
         "color": "#FF000000",
         "text_size": "20",
         "isLink": false,
@@ -40,8 +40,8 @@
            "isNative": false
       },
       {
-        "title": "",
-        "image": "",
+        "title": "Billie Eilish Puzzle",
+        "image": "https://ghanmi1.github.io/billie-eilish/billiePuzzle.PNG",
 	"color": "#FF000000",
         "text_size": "20",
         "isLink": false,
@@ -52,8 +52,8 @@
         "isNative": false
       },
       {
-        "title": "",
-        "image": "",
+        "title": "Billie Eilish HD wallpapers",
+        "image": "https://ghanmi1.github.io/billie-eilish/billieWallpapers.PNG",
 	"color": "#FF000000",
         "text_size": "20",
         "isLink": false,
