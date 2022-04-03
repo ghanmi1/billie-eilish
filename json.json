@@ -4,10 +4,10 @@
 
     "AdsController": 
       {
-        "ironsourcekey":"",
+        "ironsourcekey":"14008e1e1",
 	"admobkey":"",
-	  "admobinter":"",
-	      "admobnative":""
+	  "admobinter":"ca-app-pub-3940256099942544/1033173712",
+	      "admobnative":"ca-app-pub-3940256099942544/2247696110"
 	     
       }
     ,
@@ -20,7 +20,7 @@
         "color": "#FF000000",
         "text_size": "20",
         "isLink": false,
-        "link_title": "vlad and niki 12 Locks",
+        "link_title": "",
         "setLink": "",
         "image_link": "",
         "text":"",
